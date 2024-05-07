@@ -1,0 +1,29 @@
+.container-footer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+}
+.boxFooter {
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+    height: auto;
+    align-items: center;
+}
+.stiloImg {
+    width: 5rem;
+    height: 5rem;
+}
+.lineF {
+    border: none;
+    width: 8rem;
+    height: 1.5rem;
+    border-radius: 1rem;
+    background: linear-gradient(to right, #39a900 50%, #c1ff95 50%);
+}
+.classP {
+    margin: 0;
+    font-weight: 500;
+}

@@ -1,0 +1,15 @@
+section{
+    width: 70%;
+    height: auto;
+    padding: 1rem 3rem 1rem 3rem;
+}
+main{
+    width: 100%;
+    height: auto;
+    /* border: 3px solid red; */
+}
+footer{
+    width: 100%;
+    height: auto;
+    /* border: 4px solid rgb(208, 255, 0); */
+}
